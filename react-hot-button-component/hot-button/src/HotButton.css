@@ -1,0 +1,31 @@
+.hot-button {
+  padding: 10px;
+  box-shadow: 2px 2px black;
+}
+
+.cold {
+  background-color: #351c75;
+  color: #fff;
+}
+
+.cool {
+  background-color: #674ea7;
+  color: #fff;
+}
+
+.tepid {
+  background-color: #e06666;
+  color: #fff;
+}
+
+.warm {
+  background-color: #f6b26b;
+}
+
+.hot {
+  background-color: #ff0;
+}
+
+.nuclear {
+  background-color: #fff;
+}
